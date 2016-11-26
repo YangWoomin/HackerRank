@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/magic-spells
 #include "header.h"
 
 class Spell {
