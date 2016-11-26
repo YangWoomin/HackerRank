@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\우민\documents\github\hackerrank\c++\inheritance\inheritance\main.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우민\documents\github\hackerrank\c++\inheritance\inheritance\main.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우민\documents\github\hackerrank\c++\inheritance\inheritance\main.cpp(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우민\documents\github\hackerrank\c++\inheritance\inheritance\main.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\우민\documents\github\hackerrank\c++\inheritance\inheritance\main.cpp(145): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Inheritance.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\Inheritance\Inheritance\Debug\Inheritance.exe
+  Inheritance.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\Inheritance\Inheritance\Debug\Inheritance.pdb (Full PDB)
