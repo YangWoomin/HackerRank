@@ -1,6 +1,6 @@
 #include "header.h"
 
 int main(void) {
-	attending_workshop();
+	variadics();
 	return 0;
 }

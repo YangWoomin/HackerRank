@@ -27,6 +27,15 @@
     <ClCompile Include="attending_workshop.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="class_template_specialization.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c++_variadics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_array.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h">

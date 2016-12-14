@@ -1,3 +1,26 @@
-﻿  attending_workshop.cpp
-  OtherConcepts.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\OtherConcepts\OtherConcepts\Debug\OtherConcepts.exe
-  OtherConcepts.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\OtherConcepts\OtherConcepts\Debug\OtherConcepts.pdb (Full PDB)
+﻿  c++_variadics.cpp
+c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(6): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(25): note: 컴파일 중인 함수 템플릿 인스턴스화 'int reversed_binary_value<true,false,true,false,true,false>(void)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(24): note: 클래스 템플릿 멤버 함수 'void CheckValues<0,true,false,true,false,true,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<0,true,false,true,false,true,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<0,true,false,true,false,true,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<1,false,true,false,true,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<1,false,true,false,true,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<1,false,true,false,true,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<2,true,false,true,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<2,true,false,true,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<2,true,false,true,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<3,false,true,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<3,false,true,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<3,false,true,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<4,true,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<4,true,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(17): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<4,true,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<5,false>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<5,false>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(16): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<5,false>'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(15): note: 클래스 템플릿 멤버 함수 'void CheckValues<6>::check(int,int)'을(를) 컴파일하고 있습니다.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(36): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CheckValues<6>::check(int,int)'에 대한 참조를 확인하십시오.
+  c:\users\우민\documents\github\hackerrank\c++\otherconcepts\c++_variadics.cpp(36): note: 컴파일 중인 클래스 템플릿 인스턴스화 'CheckValues<6>'에 대한 참조를 확인하십시오.
+  OtherConcepts.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\OtherConcepts\Debug\OtherConcepts.exe
+  OtherConcepts.vcxproj -> C:\Users\우민\Documents\GitHub\HackerRank\C++\OtherConcepts\Debug\OtherConcepts.pdb (Full PDB)

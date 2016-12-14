@@ -147,6 +147,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="attending_workshop.cpp" />
+    <ClCompile Include="bit_array.cpp" />
+    <ClCompile Include="c++_variadics.cpp" />
+    <ClCompile Include="class_template_specialization.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="operator_overloading.cpp" />
     <ClCompile Include="overload_operator.cpp" />
